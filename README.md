@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juan Ramon</h1>
-<h3 align="center">A passionate Informatics engineering student from Mexico</h3>
+<h3 align="center">A mexican in STEM</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
